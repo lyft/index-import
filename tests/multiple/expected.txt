@@ -1,3 +1,4 @@
+
 CHECK: ---
 CHECK: # output/v5/units/output1.c.o-{{.+}}
 CHECK: WorkingDirectory: /fake/working/dir
